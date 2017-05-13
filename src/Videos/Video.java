@@ -1,7 +1,8 @@
 package Videos;
 
 public class Video {
-    char chetan;
-}
-
+    
+int a;
+int b;
+        System.out.print("abcdsrgter");
 }
