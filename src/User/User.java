@@ -14,7 +14,7 @@ public class User {
 	String stream;
 	String branch;
 	
-	String semester;
+	String semester_name;
 	
 	String createdOn;
 	String lastUpdated;
