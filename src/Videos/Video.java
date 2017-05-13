@@ -2,5 +2,5 @@ package Videos;
 
 public class Video {
 int a;
-int c;
+int b;
 }
