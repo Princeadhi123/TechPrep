@@ -2,5 +2,6 @@ package Videos;
 
 public class Video {
 
-	String 123456;
+	String abcdef;
+    int abcxyz;
 }
