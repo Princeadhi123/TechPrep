@@ -2,7 +2,10 @@ package Videos;
 
 public class Video {
     
-int a;
-int b;
-        System.out.print("abcdsrgter");
+        System.out.print("abcd");
+    int a;
+    int b;
+    float cf;
+    float b;
+        System.out.print("argter");
 }
