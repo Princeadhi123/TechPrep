@@ -7,7 +7,7 @@ public class User {
 	String firstName;
 	String lastName;
 	String mobno;
-	String email;
+	String email_id;
 	
 	String clg;
 	String city;
