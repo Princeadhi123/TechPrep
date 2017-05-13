@@ -17,6 +17,6 @@ public class LoginController {
 	@Path("/login2222")
 	@GET
     public String pojo1() {
-        return "pojo2 ok @ " + new Date().toString();
+        return "Hrishikesh Deshmukh" + new Date().toString();
     }
 }
