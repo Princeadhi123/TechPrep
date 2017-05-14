@@ -9,9 +9,9 @@ public class User {
 	String mobno;
 	String email_id;
 	
-	String clg;
-	String city;
-	String stream;
+	String clg;_name;
+	String city_name;
+	String stream _ name;
 	String branch;
 	
 	String semester_name;
